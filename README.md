@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/philipp-kling/personal-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a doctoral candidate in computational social science at the [Graduate School of Decicison Sciences](https://www.gsds.uni-konstanz.de/) and a member of the [Center for Data and Methods](https://www.polver.uni-konstanz.de/en/cdm/people/students/kling/) at the [University of Konstanz](https://www.uni-konstanz.de/en/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/philipp-kling/personal-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In my dissertation, I analyze social media users' consumption awareness. In particular, I focus on the accuracy of Twitter users' statements about their online activity and the political heterogeneity of their Twitter network. Further, I analyze the normative perceptions of biased news diets. My work utilizes online surveys in addition to analyses of social media data. I received both my BA (Major in Sociology, Minor in Statistics) and my MSc (Social and Economic Data Analysis) from the University of Konstanz.
